@@ -18,7 +18,7 @@ public class StringBufferInJava {
 		
 		System.out.println(sb.replace(3, 8, "GNR")); //it will insert the GNR in 3rd position
 		System.out.println(sb.reverse()); // it will reverse the string
-		
+		System.out.println("added data");
 		
 		
 	}
